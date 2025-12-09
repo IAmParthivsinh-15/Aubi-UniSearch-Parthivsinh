@@ -524,7 +524,7 @@ GET /analytics/provinces/United%20States
 
 **Connection String:**
 ```
-mongodb+srv://parthiv:parthiv@cluster0.f9yy2cg.mongodb.net/?appName=Cluster0
+mongodb+srv://<username>:<password>@cluster0.f9yy2cg.mongodb.net/?appName=Cluster0
 ```
 
 **Database Name:** `Aubergine`
