@@ -520,17 +520,6 @@ GET /analytics/provinces/United%20States
 
 ## 💾 Database
 
-### MongoDB Connection Details
-
-**Connection String:**
-```
-mongodb+srv://<username>:<password>@cluster0.f9yy2cg.mongodb.net/?appName=Cluster0
-```
-
-**Database Name:** `Aubergine`
-
-**Collection:** `universities`
-
 ### Auto-Import Feature
 
 On first run, the backend automatically:
