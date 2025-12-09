@@ -626,17 +626,6 @@ curl http://localhost:5001/api/analytics/provinces/India
 - Ensure MongoDB collection is empty (first run)
 - Check backend logs for import errors
 
----
-
-## 📝 Environment Variables (Optional)
-
-Create a `.env` file in the `Backend` folder:
-
-```
-PORT=5001
-MONGODB_URI=mongodb+srv://parthiv:parthiv@cluster0.f9yy2cg.mongodb.net/?appName=Cluster0
-NODE_ENV=development
-```
 
 ---
 
